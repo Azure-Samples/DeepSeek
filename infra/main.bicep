@@ -38,6 +38,7 @@ module aiServices 'br/public:avm/res/cognitive-services/account:0.7.2' = {
     tags: tags
     kind: 'AIServices'
     customSubDomainName: aiServicesNameAndSubdomain
+    publicNetworkAccess: 'Enabled'
     sku:  'S0'
     deployments: [
       {
@@ -57,7 +58,7 @@ module aiServices 'br/public:avm/res/cognitive-services/account:0.7.2' = {
       {
         principalId: principalId
         principalType: 'User'
-        roleDefinitionIdOrName: 'Cognitive Services OpenAI User'
+        roleDefinitionIdOrName: 'Cognitive Services User'
       }
     ]
   }
