@@ -15,7 +15,7 @@ client = ChatCompletionsClient(
     endpoint=os.environ["AZURE_AISERVICES_ENDPOINT"],
     credential=DefaultAzureCredential(),
     credential_scopes=["https://cognitiveservices.azure.com/.default"],
-    model="DeepSeek-R1"
+    model="DeepSeek-R1",
 )
 
 result = client.complete(
