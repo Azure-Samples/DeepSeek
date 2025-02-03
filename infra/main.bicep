@@ -70,4 +70,4 @@ output AZURE_LOCATION string = location
 output AZURE_TENANT_ID string = tenant().tenantId
 output AZURE_RESOURCE_GROUP string = resourceGroup.name
 
-output AZURE_AISERVICES_ENDPOINT string = aiServices.outputs.endpoint
+output AZURE_AISERVICES_ENDPOINT string = 'https://${aiServices.outputs.name}.services.ai.azure.com/models'
