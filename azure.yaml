@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
 
-name: azure-deepseek
+name: deepseek
 metadata:
-  template: azure-deepseek@0.0.1
+  template: deepseek@0.0.1
