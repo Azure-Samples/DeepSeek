@@ -24,7 +24,7 @@ The DeepSeek-R1 model is now available on [Azure](https://azure.microsoft.com/bl
 
 ## JavaScript
 
-Use [DeepSeek on Azure with JavaScript/TypeScript](https://github.com/Azure-Samples/deepseek-azure-javascript), with OpenAI Node.js SDK or LangChain.js
+Use [DeepSeek on Azure with JavaScript/TypeScript](https://github.com/Azure-Samples/deepseek-azure-javascript), with OpenAI Node.js SDK, LangChain.js or Llamaindex.TS.
 
 ## Java
 
