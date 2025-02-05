@@ -8,9 +8,7 @@ Use [DeepSeek on Azure with Python](https://github.com/Azure-Samples/deepseek-py
 
 ## JavaScript
 
-Use [DeepSeek on Azure with JavaScript](https://github.com/Azure-Samples/deepseek-js), with Azure Functions.
-
-For more samples, refer to [Others](https://github.com/Azure-Samples/deepseek-azure-javascript), with OpenAI Node.js SDK, LangChain.js or Llamaindex.TS.
+Use [DeepSeek on Azure with JavaScript](https://github.com/Azure-Samples/deepseek-js), with Azure Functions. For more DeepSeek samples in JavaScript with OpenAI Node.js SDK, LangChain.js or Llamaindex.TS., please refer to [other JS samples](https://github.com/Azure-Samples/deepseek-azure-javascript), 
 
 ## Java
 
