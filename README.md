@@ -19,7 +19,7 @@ The DeepSeek-R1 model is now available on [Azure](https://azure.microsoft.com/bl
 3. See the endpoint by running:
 
     ```shell
-    azd env get-value https://jiauq6f53bo7o-aiservices.cognitiveservices.azure.com/
+    azd env get-value AZURE_AISERVICES_ENDPOINT
     ```
 
 ## JavaScript
