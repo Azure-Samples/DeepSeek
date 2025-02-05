@@ -1,4 +1,4 @@
-# DeepSeek
+# DeepSeek on Azure AI Foundry
 
 The DeepSeek-R1 model is now available on [Azure](https://azure.microsoft.com/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/). This repo provides links to DeepSeek-related Azure samples in various languages.
 
