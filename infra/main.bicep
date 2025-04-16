@@ -42,10 +42,10 @@ module aiServices 'br/public:avm/res/cognitive-services/account:0.7.2' = {
     sku:  'S0'
     deployments: [
       {
-        name: 'DeepSeek-R1'
+        name: 'Llama-3.2-11B-Vision-Instruct'
         model: {
-          format: 'DeepSeek'
-          name: 'DeepSeek-R1'
+          format: 'Meta'
+          name: 'Llama-3.2-11B-Vision-Instruct'
           version: '1'
         }
         sku: {
